@@ -1,4 +1,6 @@
-# Anomaly Detection with NSL-KDD
+# Anomaly Detection
+
+Network Instrusion Detection with NSL-KDD
 
 This project explores unsupervised anomaly detection using the NSL-KDD dataset, a widely-used benchmark in network intrusion detection.
 
